@@ -3,7 +3,6 @@
   <b>Advancing Bangla Punctuation Restoration by a Monolingual Transformer-Based Method and a Large-Scale Corpus</b> </br> 
   [Accepted at EMNLP 2023 Workshop BLP, Paper — <a href="https://arxiv.org/" target="_blank">Link will be updated</a>]
 </p>
-</br> </br> 
 
 # Jatikarok in a Nutshell
 ![bigpicture](https://github.com/mehedihasanbijoy/Jatikarok-and-BanglaPRCorpus/assets/58245357/9ddd5536-8a72-45c5-ae60-9873639d3fa5)
